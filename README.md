@@ -1,10 +1,9 @@
-### Hi there 👋
+![image](https://github.com/oya254/oya254/assets/85781719/9aaab2bf-dd1a-4184-b6cc-54e251fddb95)### Hi there 👋
 
 <!--
 <img width="100%" height="auto" src="./profile.png" />
 -->
-![Patiphan Phengpao]( https://i.pinimg.com/564x/7d/0d/6d/7d0d6de4a1944d7f0d0f9b012c05e532.jpg )
-
+![Patiphan Phengpao](https://i.pinimg.com/564x/4d/29/50/4d29509c6c2ddaf82245ad046f058d42.jpg))
 
 <h1 align="center">Hi 👋, I'm Papon</h1>
 
