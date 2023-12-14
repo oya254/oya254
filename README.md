@@ -2,7 +2,7 @@
 
 <img width="100%" height="auto" src="./profile.png" />
 
-<h1 align="center">Hi 👋, I'm Itaraphong Sangkamongkholgit</h1>
+<h1 align="center">Hi 👋, I'm Papon</h1>
 
 ## 📖 About me
 * 💻 I'm a web developer
@@ -64,8 +64,7 @@
         </a>
       </td>
       <td>
-        <a href="https://nextjs.org/" target="_blank">
-          <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>
+       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -156,7 +155,7 @@
 </table>
 
 ## Medium Post
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --
 - [เรียนรู้การใช้งาน migrate-mongo](https://kajame.xyz/blog/migration-mongo)
 - [ทำความรู้จัก .pipe&lpar;&rpar; ใน Node.js](https://kajame.xyz/blog/what-is-pipe-in-node-js)
 - [ทำ API ให้แสดงไฟล์ PDF บน Express](https://kajame.xyz/blog/create-an-api-to-display-pdf-files-with-express)
