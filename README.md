@@ -110,6 +110,9 @@
           <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
         </a>
       </td>
+     <td>
+        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+      </td>
       <td>
         <a href="#">
           <img
@@ -154,15 +157,18 @@
   </tbody>
 </table>
 
+<!--
 ## Medium Post
-<!-- BLOG-POST-LIST:START --
+ BLOG-POST-LIST:START --
 - [เรียนรู้การใช้งาน migrate-mongo](https://kajame.xyz/blog/migration-mongo)
 - [ทำความรู้จัก .pipe&lpar;&rpar; ใน Node.js](https://kajame.xyz/blog/what-is-pipe-in-node-js)
 - [ทำ API ให้แสดงไฟล์ PDF บน Express](https://kajame.xyz/blog/create-an-api-to-display-pdf-files-with-express)
 - [ลองสร้าง Project Laravel ใส่ใน Nginx ใน Docker](https://kajame.xyz/blog/how-to-create-docker-container-nginx-and-laravel-project)
 <!-- BLOG-POST-LIST:END -->
 
+<!--
 ## 📈 Github Stats
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jame3032002&show_icons=true&locale=en" alt="jame3032002" />
 <br />
 <br />
