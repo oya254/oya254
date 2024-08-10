@@ -4,25 +4,9 @@
 </div>
 <h1>
   
-  
-</h1>
-<!--
-<img width="100%" height="auto" src="./profile.png" />
--->
-<!--
-![Patiphan Phengpao](https://i.pinimg.com/564x/4d/29/50/4d29509c6c2ddaf82245ad046f058d42.jpg)
--->
-<!-- <h1 align="center">Hi 👋, I'm Papon</h1> -->
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
-## Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/xateeeiun0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 
 ## 💻 My Tech Stack
@@ -59,14 +43,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
-
-[![Github Status](https://github-readme-stats.vercel.app/api?username=mikkipastel&count_private=true&theme=onedark&show_icons=true)](https://github.com/mikkipastel)
-
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkipastel&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/mikkipastel)
-
-
-
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Support Me Here ----------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -84,9 +60,43 @@
 <br><br>
 
 
+[![Github Status](https://github-readme-stats.vercel.app/api?username=mikkipastel&count_private=true&theme=onedark&show_icons=true)](https://github.com/mikkipastel)
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkipastel&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/mikkipastel)
 
 
 
+
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+ 
+
+
+
+
+
+
+<!--
+</h1>
+
+<img width="100%" height="auto" src="./profile.png" />
+-->
+<!--
+![Patiphan Phengpao](https://i.pinimg.com/564x/4d/29/50/4d29509c6c2ddaf82245ad046f058d42.jpg)
+-->
+<!-- <h1 align="center">Hi 👋, I'm Papon</h1> -->
+
+
+<!--## Support Me
+ <ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/xateeeiun0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li> -->
 
 
 <!--
