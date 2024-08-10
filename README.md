@@ -12,7 +12,7 @@
 <!--
 ![Patiphan Phengpao](https://i.pinimg.com/564x/4d/29/50/4d29509c6c2ddaf82245ad046f058d42.jpg)
 -->
-<h1 align="center">Hi 👋, I'm Papon</h1>
+<!-- <h1 align="center">Hi 👋, I'm Papon</h1> -->
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -66,8 +66,27 @@
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkipastel&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/mikkipastel)
 
 
-## 🧧 Donate me
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Support Me Here ----------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+# <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Sponsor me 
+<!--
+> I've made significant contributions to the open source ecosystem. Sponsoring me gives you access to exclusive benefits, such as a private Discord channel and more. Visit the [sponsors page](https://github.com/sponsors/Anmol-Baranwal) for further details.
+-->
+<br>
+
+<!--<a href="https://github.com/sponsors/Anmol-Baranwal"><img src="https://img.shields.io/badge/sponsor-d5d5d5?style=for-the-badge&logo=GitHub-Sponsors&logoColor=0A0209" /></a> -->
+<a href="https://buymeacoffee.com/xateeeiun0"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-d5d5d5?style=for-the-badge&logo=buy-me-a-coffee&logoColor=0A0209" /></a>
+<a href="https://anmolbaranwal.gumroad.com/"><img src="https://img.shields.io/badge/GUMROAD-d5d5d5?style=for-the-badge&logo=gumroad&logoColor=0A0209" /></a>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/lucas79384#shareGoalModal)
+<br><br>
+
+
+
+
+
 
 
 <!--
