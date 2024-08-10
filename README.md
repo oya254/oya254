@@ -24,7 +24,6 @@
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/xateeeiun0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oya254&show_icons=true&theme=transparent)
 
 ## 💻 My Tech Stack
 
@@ -54,16 +53,14 @@
 ![Gitbook](https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white)
 ![Maskdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oya254&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oya254&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Github Status](https://github-readme-stats.vercel.app/api?username=mikkipastel&count_private=true&theme=onedark&show_icons=true)](https://github.com/mikkipastel)
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkipastel&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/mikkipastel)
-## 🧧 Donate me
 
+
+## 🧧 Donate me
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/lucas79384#shareGoalModal)
 
 
