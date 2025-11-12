@@ -46,9 +46,9 @@
     <br
 
     </details>   -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oya254&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oya254&layout=compact&theme=vision-friendly-dark)](https://github.com/oya254)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-Baranwal&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oya254&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -68,9 +68,9 @@
 <br><br>
 
 
-[![Github Status](https://github-readme-stats.vercel.app/api?username=mikkipastel&count_private=true&theme=onedark&show_icons=true)](https://github.com/oya254)
+[![Github Status](https://github-readme-stats.vercel.app/api?username=oya254&count_private=true&theme=onedark&show_icons=true)](https://github.com/oya254)
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkipastel&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/oya254)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oya254&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/oya254)
 
 
 
@@ -85,7 +85,7 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My socials
 
-> I've been active across various platforms, whether it's for learning, creating content, trying the platform, or sharing my progress. I've tried a lot of stuff which is why I have a good knowledge of various domains.
+> I've been active across various platforms, whether it's for learning, creating content, trying the platform, or sharing my progress. I've tried a lot of stuff, which is why I have a good knowledge of various domains.
 
 <br>
 
