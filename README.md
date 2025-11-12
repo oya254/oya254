@@ -105,9 +105,9 @@
   <!-- 10 --><a href="https://www.codecademy.com/profiles/oya2966427280"><img src="https://img.shields.io/badge/Codecademy-0A0209?style=for-the-badge&logo=codecademy&logoColor=d5d5d5" /></a> 
   <br> 
   <!-- 11 --><a href="https://dev.to/oya"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209"/></a>
-  <!-- 11 --><a href="https://www.linkedin.com/in/za-don-b6a43b322/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
+  <!-- 11 --><a href="https://www.linkedin.com/in/papon-moonkonburee-b779382a7/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
   <!-- 12 --> <a href="ppansiun@outlook.co.th"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-  <!-- 13 --><a href="https://discordapp.com/users/800733133871906836"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Anmol#7140" >
+  <!-- 13 --><a href="https://discordapp.com/users/800733133871906836"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Anmol#7140">
   <!-- 14 --><a href="https://dribbble.com/Anmol-Baranwal/"><img src="https://img.shields.io/badge/Dribbble-d5d5d5?style=for-the-badge&logo=dribbble&logoColor=0A0209" /></a>
   <!-- 15 <a href="https://twitter.com/Anmol_Codes"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="Anmol_Codes" ></a>-->
   
