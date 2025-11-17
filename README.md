@@ -85,7 +85,7 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My socials
 
-> I've been active across various platforms, whether it's for learning, creating content, trying the platform, or sharing my progress. I've tried a lot of stuff, which is why I have a good knowledge of various domains.
+> I'm active across different platforms—learning new tech, experimenting with tools, and sharing what I'm building and improving over time. I work on various coding projects and keep sharpening my skills bit by bit, treating every project as a way to level up.
 
 <br>
 
