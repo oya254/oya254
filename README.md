@@ -1,4 +1,17 @@
 
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" width="500">
+      <img src="./portrait.svg" width="100%" alt="ASCII portrait" />
+    </td>
+    <td valign="top" width="564">
+      <img src="./neofetch.svg" width="100%" alt="Experience, stack, highlights" />
+    </td>
+  </tr>
+</table>
+
+<br />
 <div id="header" align="center">
 <!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->   
   <img align="right" widht="300" height="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
