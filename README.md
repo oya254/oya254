@@ -59,7 +59,9 @@
     <br
 
     </details>   -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oya254&layout=compact&theme=vision-friendly-dark)](https://github.com/oya254)
+    
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oya254&layout=compact&theme=vision-friendly-dark)](https://github.com/oya254)
+-->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=oya254&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
@@ -81,12 +83,11 @@
 <br><br>
 
 
-[![Github Status](https://github-readme-stats.vercel.app/api?username=oya254&count_private=true&theme=onedark&show_icons=true)](https://github.com/oya254)
+<!-- [![Github Status](https://github-readme-stats.vercel.app/api?username=oya254&count_private=true&theme=onedark&show_icons=true)](https://github.com/oya254)
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oya254&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/oya254)
 
-
-
+-->
 
 
 
