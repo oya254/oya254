@@ -3,10 +3,10 @@
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="top" width="500">
-      <img src="./access/portrait.svg" width="100%" alt="ASCII portrait" />
+      <img src="./access/portrait.gif" width="100%" alt="ASCII portrait" />
     </td>
     <td valign="top" width="564">
-      <img src="./access/neofetch.svg" width="100%" alt="Experience, stack, highlights" />
+      <img src="./access/neofetch.gif" width="100%" alt="Experience, stack, highlights" />
     </td>
   </tr>
 </table>
