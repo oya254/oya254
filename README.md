@@ -1,4 +1,8 @@
 
+<td valign="top" width="500">
+      <img src="./assets/contrib-heatmap-neon.gif" width="100%" alt="ASCII portrait" />
+    </td>
+
 <div align="center">
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
